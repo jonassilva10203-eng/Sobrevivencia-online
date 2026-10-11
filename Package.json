@@ -1,0 +1,12 @@
+{
+  "name": "sobrevivencia-online",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para jogo de sobrevivencia",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
